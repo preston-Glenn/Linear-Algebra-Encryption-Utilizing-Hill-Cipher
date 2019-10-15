@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\preston\source\repos\preston glenn linear algebra project\preston glenn linear algebra project\source.cpp(35): warning C4101: 'arrays': unreferenced local variable
+c:\users\preston\source\repos\preston glenn linear algebra project\preston glenn linear algebra project\source.cpp(382): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\preston\source\repos\preston glenn linear algebra project\preston glenn linear algebra project\source.cpp(471): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\preston\source\repos\preston glenn linear algebra project\preston glenn linear algebra project\source.cpp(472): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Preston Glenn Linear Algebra Project.vcxproj -> C:\Users\Preston\source\repos\Preston Glenn Linear Algebra Project\Debug\Preston Glenn Linear Algebra Project.exe
